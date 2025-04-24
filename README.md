@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-## Languages and Tools I Use
+## Languages and tools I know
 ![](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Java-green?style=flat&logo=java)
