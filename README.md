@@ -1,9 +1,6 @@
 # Pablo Abaroa-Schilling
 
-## Statistics of my GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloSch26&show_icons=true&count_private=true)
-
-## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSch26&layout=compact)
 
 ## Languages I use
