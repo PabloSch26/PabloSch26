@@ -24,6 +24,11 @@
 ![](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
 ![](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![](https://img.shields.io/badge/-NetBeans-009688?style=flat&logo=apache-netbeans)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visualstudiocode)
+![](https://img.shields.io/badge/-XAMPP-FC5C3F?style=flat&logo=xampp)
+![](https://img.shields.io/badge/-SourceTree-0052CC?style=flat&logo=sourcetree)
+![](https://img.shields.io/badge/-VirtualBox-6633cc?style=flat&logo=virtualbox)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-sch-it/)
