@@ -3,15 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloSch26&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSch26&layout=compact)
 
-## Languages I use
-![](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-
-## Languages and tools I know
+## Languages and tools
 ![](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Java-green?style=flat&logo=java)
