@@ -1,4 +1,4 @@
-![Banner](../images/profile-banner.png)
+![Banner]([../images/profile-banner.png](https://github.com/pablo-sch/pablo-sch/blob/main/images/profile-banner.png))
 
 # Pablo Abaroa-Schilling
 
