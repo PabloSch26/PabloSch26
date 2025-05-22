@@ -1,4 +1,4 @@
-![](../images/profile-banner.png)
+![Banner](../images/profile-banner.png)
 
 # Pablo Abaroa-Schilling
 
