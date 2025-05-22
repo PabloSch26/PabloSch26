@@ -1,3 +1,5 @@
+![](../images/profile-banner.png)
+
 # Pablo Abaroa-Schilling
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-sch&show_icons=true&count_private=true)
@@ -25,5 +27,7 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-sch-it/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](<(https://discord.com/users/1318260062900457642)>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PabloSch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-sch-it/)
+[![Discord](https://img.shields.io/badge/Discord-PabloSch%230001-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1318260062900457642)
+
+📧 Gmail: pablsch.it.contact [at] gmail [dot] com
